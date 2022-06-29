@@ -445,3 +445,7 @@ input:focus {
         flex-basis: 100%;
     }
 }
+
+.imagenes-hover:hover {
+    filter:grayscale(50%);
+}
