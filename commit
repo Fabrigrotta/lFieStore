@@ -1,0 +1,53 @@
+[33mcommit 0193a9d242c244d24a12397d2608f45726eaac48[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Fabri <fabriciogrotta@gmail.com>
+Date:   Wed Jun 29 22:49:35 2022 -0300
+
+    Agregando carrito de compras e intentando hacer los sorts y finds
+
+[33mcommit 9a9b59368806fcad6de7474100283fa6c3023c0d[m
+Author: Fabri <fabriciogrotta@gmail.com>
+Date:   Wed Jun 29 21:50:56 2022 -0300
+
+    Borrando las brands de los productos
+
+[33mcommit a1811396ef7ecb4af6a6109c3905a2bad6e05778[m
+Author: Fabri <fabriciogrotta@gmail.com>
+Date:   Wed Jun 29 21:43:53 2022 -0300
+
+    Arreglando etiquetas a
+
+[33mcommit 348190bdac807de633721cc98d83e5179c432d24[m
+Author: Fabri <fabriciogrotta@gmail.com>
+Date:   Wed Jun 29 20:58:39 2022 -0300
+
+    Creando todas las paginas de productos por separado
+
+[33mcommit 36f1bb7c680e425183a22d78700692fd0ee93a4e[m
+Author: Fabri <fabriciogrotta@gmail.com>
+Date:   Tue Jun 28 23:16:52 2022 -0300
+
+    Agregue productos, carpetas de para ordenar y arregle las rutas de busqueda
+
+[33mcommit e8d35c49a545955a5127319b9b423a6638415b56[m
+Author: Fabri <fabriciogrotta@gmail.com>
+Date:   Tue Jun 28 15:41:34 2022 -0300
+
+    Agregando buscador a la pagina productos
+
+[33mcommit aa47270674833a1952b3d74abf3f9763f9a3d214[m
+Author: Fabri <fabriciogrotta@gmail.com>
+Date:   Tue Jun 28 15:35:18 2022 -0300
+
+    agregando paginas de productos
+
+[33mcommit b8cef8c9c8e1b26ea54118c87bddd77799566791[m
+Author: Fabri <fabriciogrotta@gmail.com>
+Date:   Mon Jun 27 15:22:36 2022 -0300
+
+    Arreglando menu desplegable responsive
+
+[33mcommit cf9ea355fb65eb19bbdbc356d9caddc3d2b45edd[m
+Author: Fabri <fabriciogrotta@gmail.com>
+Date:   Mon Jun 27 14:48:56 2022 -0300
+
+    Primer commit
